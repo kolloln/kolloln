@@ -1,172 +1,216 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Kallol%20Chakraborty&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%7C%20Medical%20Imaging%20%7C%20Deep%20Learning&descAlignY=65&descSize=20&descColor=a0d8ef" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Kallol%20Chakraborty&fontSize=52&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Medical%20Imaging%20%7C%20Deep%20Learning%20for%20Human%20Health&descAlignY=60&descSize=17&descColor=ffffff" width="100%"/>
+<div align="center">
+  <a href="https://github.com/kolloln">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=🧠+Brain+Tumor+Detection+%26+Segmentation;🫁+Chest+X-Ray+Disease+Diagnosis;🦴+Bone+Fracture+Real-Time+Detection;👁️+Retinal+Disease+Grading;🔬+Skin+Lesion+%26+Cancer+Classification;❤️+AI+That+Saves+Human+Lives" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+that+detects+brain+tumors+%F0%9F%A7%A0;Diagnosing+chest+diseases+from+X-Rays+%F0%9F%AB%81;Detecting+bone+fractures+in+real-time+%F0%9F%A6%B4;Making+healthcare+smarter+with+deep+learning+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kolloln&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/kolloln?style=for-the-badge&color=00d9ff&labelColor=0d1117)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/🏥_Medical_AI_Engineer-0d1117?style=for-the-badge&labelColor=00d9ff&color=0d1117"/>
+  <img src="https://img.shields.io/badge/📍_Bangladesh-0d1117?style=for-the-badge&labelColor=00d9ff&color=0d1117"/>
+  <img src="https://img.shields.io/badge/💼_Open_To_Work-0d1117?style=for-the-badge&labelColor=00d9ff&color=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=kolloln&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
 ---
 
-## 👨‍💻 Who Am I
+<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
-```yaml
-name         : Kallol Chakraborty
-role         : AI Engineer — Medical Imaging & Deep Learning
-company      : Medical AI Research
-location     : Bangladesh 🇧🇩
-experience   : Computer Vision · PyTorch · Medical Image Analysis
-passion      : "Using AI to detect diseases earlier, faster, and more accurately"
-available    : Open to collaborations & research projects ✅
+## 🙋‍♂️ About Me
+
+```python
+class KallolChakraborty:
+
+    name     = "Kallol Chakraborty"
+    title    = "AI Engineer — Medical Imaging"
+    location = "Bangladesh 🇧🇩"
+
+    expertise = [
+        "Brain Tumor Classification & Segmentation",
+        "Chest X-Ray Disease Detection",
+        "Bone Fracture Localization",
+        "Retinal Disease Grading",
+        "Skin Lesion Classification",
+    ]
+
+    tools = {
+        "dl"      : ["PyTorch", "TensorFlow", "MONAI"],
+        "vision"  : ["OpenCV", "Albumentations", "timm"],
+        "deploy"  : ["FastAPI", "Docker", "ONNX"],
+    }
+
+    mission = "Bridging AI with Human Health 🏥"
+    status  = "Building the future of medical diagnostics"
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🔥 Currently Working On
+## 🔥 Current Focus
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🧠 **Brain Tumor Analysis** | Multi-class MRI classification + U-Net segmentation | `✅ Complete` |
-| 🫁 **Chest X-Ray Diagnosis** | Pneumonia · COVID-19 · TB detection | `🔄 In Progress` |
-| 🦴 **Bone Fracture Detector** | YOLOv8 real-time fracture localization | `🔄 In Progress` |
-| 👁️ **Retinal Disease Grading** | Diabetic retinopathy 5-class grading | `📋 Planned` |
-| 🔬 **Skin Lesion Classification** | Melanoma detection · ISIC dataset | `📋 Planned` |
+<div align="center">
+
+| # | Project | Domain | Status | Progress |
+|---|---------|--------|--------|----------|
+| 01 | 🧠 **Brain Tumor Analysis** | Neuroimaging | ✅ Complete | `████████████ 100%` |
+| 02 | 🫁 **Chest X-Ray Diagnosis** | Thoracic | 🔄 Active | `████████░░░░ 70%` |
+| 03 | 🦴 **Bone Fracture Detector** | Musculoskeletal | 🔄 Active | `██████░░░░░░ 50%` |
+| 04 | 👁️ **Retinal Disease Grader** | Ophthalmology | 📋 Planned | `██░░░░░░░░░░ 15%` |
+| 05 | 🔬 **Skin Lesion Classifier** | Dermatology | 📋 Planned | `░░░░░░░░░░░░ 0%` |
+
+</div>
 
 ---
 
 ## 🏥 Portfolio — Medical AI Projects
 
-<details>
-<summary><b>🧠 Brain Tumor Classification & Segmentation</b> — Click to expand</summary>
-<br/>
-
-**Goal:** Automatically classify and segment brain tumors from MRI scans
-
-**What it does:**
-- Classifies 4 tumor types: Glioma · Meningioma · Pituitary · No Tumor
-- U-Net pixel-level segmentation of tumor boundaries
-- Grad-CAM explainability heatmaps for clinical trust
-
-**Models used:** EfficientNet-B4 · ResNet50 · VGG16 · U-Net
-
-**Results:**
-| Model | Accuracy | AUC-ROC |
-|-------|----------|---------|
-| EfficientNet-B4 | **97.8%** | **0.995** |
-| ResNet50 | 95.2% | 0.987 |
-| U-Net Dice | **0.887** | — |
-
-**Tech:** `PyTorch` `timm` `Albumentations` `MLflow` `ONNX`
-
-[![View Repository](https://img.shields.io/badge/📁_View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/kolloln/brain-tumor-analysis)
-
-</details>
-
-<details>
-<summary><b>🫁 Chest X-Ray Disease Detection</b> — Click to expand</summary>
-<br/>
-
-**Goal:** Multi-label disease detection from chest radiographs
-
-**Detects:** Pneumonia · COVID-19 · Tuberculosis · Pleural Effusion · Cardiomegaly
-
-**Approach:**
-- DenseNet121 backbone (pretrained CheXNet weights)
-- Multi-label binary cross-entropy loss
-- Class activation maps for lesion localization
-
-**Dataset:** NIH ChestX-ray14 (112,000+ images)
-
-**Tech:** `PyTorch` `DenseNet` `OpenCV` `FastAPI` `Docker`
-
-</details>
-
-<details>
-<summary><b>🦴 Bone Fracture Detection</b> — Click to expand</summary>
-<br/>
-
-**Goal:** Real-time fracture detection and localization from X-rays
-
-**Supports:** Hip · Wrist · Spine · Rib · Tibia fractures
-
-**Approach:**
-- YOLOv8 for bounding box detection
-- Custom fracture classification head
-- DICOM file support for clinical workflow
-
-**Tech:** `YOLOv8` `OpenCV` `DICOM` `TensorRT`
-
-</details>
-
-<details>
-<summary><b>👁️ Diabetic Retinopathy Grading</b> — Click to expand</summary>
-<br/>
-
-**Goal:** Grade retinopathy severity (0=No DR → 4=Proliferative)
-
-**Approach:**
-- EfficientNet-B5 with mixup augmentation
-- Ordinal regression loss for grade ordering
-- Deployed as REST API
-
-**Dataset:** Kaggle DR Detection (88,702 fundus images)
-
-**Tech:** `PyTorch` `FastAPI` `ONNX` `Docker`
-
-</details>
-
 ---
 
-## 📁 Repositories
+### 🧠 Project 01 — Brain Tumor Classification & Segmentation
 
 <div align="center">
-
-[![brain-tumor-analysis](https://github-readme-stats.vercel.app/api/pin/?username=kolloln&repo=brain-tumor-analysis&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=00d9ff)](https://github.com/kolloln/brain-tumor-analysis)
-
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Accuracy-97.8%25-00d9ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dice_Score-0.887-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </div>
 
+> Automated detection and segmentation of brain tumors from MRI scans using state-of-the-art deep learning.
+
+**🎯 What it solves:** Radiologists spend hours manually analyzing MRI scans. This system detects and classifies tumors in seconds.
+
+**📊 Tumor Types Detected:**
+```
+  🔴  Glioma        — Most common malignant brain tumor
+  🟡  Meningioma    — Tumor arising from brain membranes  
+  🟢  Pituitary     — Tumor of the pituitary gland
+  ⚪  No Tumor      — Healthy brain scan
+```
+
+**🏆 Results:**
+| Model | Accuracy | F1-Score | AUC-ROC |
+|-------|----------|----------|---------|
+| ⚡ EfficientNet-B4 | **97.8%** | **0.977** | **0.995** |
+| ResNet50 | 95.2% | 0.951 | 0.987 |
+| VGG16 | 93.6% | 0.934 | 0.981 |
+| 🔵 U-Net (Segmentation) | Dice: **0.887** | IoU: **0.798** | — |
+
+**🛠 Tech Stack:**
+`PyTorch` `EfficientNet-B4` `U-Net` `Grad-CAM` `Albumentations` `MLflow` `ONNX`
+
+[![View Code](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kolloln/brain-tumor-analysis)
+
 ---
 
-## 🛠️ Tech Stack
+### 🫁 Project 02 — Chest X-Ray Disease Diagnosis
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dataset-NIH_ChestXray14-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</div>
+
+> Multi-label disease detection from chest radiographs covering 14 pathology classes.
+
+**📊 Diseases Detected:** Pneumonia · COVID-19 · Tuberculosis · Pleural Effusion · Cardiomegaly · Atelectasis · Edema
+
+**🏗 Architecture:** DenseNet121 → pretrained CheXNet weights → Multi-label BCE loss → CAM visualization
+
+**🛠 Tech Stack:**
+`TensorFlow` `DenseNet121` `OpenCV` `FastAPI` `Docker` `DICOM`
+
+---
+
+### 🦴 Project 03 — Bone Fracture Real-Time Detection
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Model-YOLOv8-00FFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Task-Object_Detection-purple?style=flat-square"/>
+</div>
+
+> Real-time fracture detection and localization from X-ray images using YOLOv8.
+
+**📊 Fracture Types:** Hip · Wrist · Spine · Rib · Tibia · Radius
+
+**🏗 Architecture:** YOLOv8 → Custom fracture head → DICOM integration → TensorRT deployment
+
+**🛠 Tech Stack:**
+`YOLOv8` `OpenCV` `DICOM` `TensorRT` `FastAPI`
+
+---
+
+### 👁️ Project 04 — Diabetic Retinopathy Grading
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dataset-Kaggle_DR-20BEFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Classes-5_Grades-orange?style=flat-square"/>
+</div>
+
+> Automated grading of diabetic retinopathy severity (Grade 0–4) from fundus images.
+
+**📊 Grades:** No DR → Mild → Moderate → Severe → Proliferative DR
+
+**🛠 Tech Stack:**
+`PyTorch` `EfficientNet-B5` `Mixup` `Ordinal Regression` `ONNX` `FastAPI`
+
+---
+
+### 🔬 Project 05 — Skin Lesion & Melanoma Classification
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dataset-HAM10000-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AUC_Target-0.94+-green?style=flat-square"/>
+</div>
+
+> 7-class skin lesion classification with melanoma detection on HAM10000 dataset.
+
+**🛠 Tech Stack:**
+`PyTorch` `EfficientNet` `Focal Loss` `SHAP` `Grad-CAM`
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Deep Learning Frameworks**
+**⚡ Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![MONAI](https://img.shields.io/badge/MONAI-0072C6?style=for-the-badge)
 
-**Computer Vision**
+**👁 Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Albumentations](https://img.shields.io/badge/Albumentations-FF4081?style=for-the-badge)
-![timm](https://img.shields.io/badge/timm-Models-orange?style=for-the-badge)
+![timm](https://img.shields.io/badge/timm-Pretrained_Models-orange?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 
-**MLOps & Deployment**
+**🚀 Deployment & MLOps**
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-**Languages & Tools**
+**🐍 Languages & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -175,48 +219,46 @@ available    : Open to collaborations & research projects ✅
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kolloln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolloln&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kolloln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolloln&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kolloln&theme=tokyonight&hide_border=true&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolloln&theme=tokyonight&hide_border=true&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&background=0d1117" width="55%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolloln&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b" width="95%"/>
 </div>
 
 ---
 
-## 🎯 Domain Expertise
+## 🐍 Contribution Snake
 
-```
-🧠  Neuroimaging          Brain MRI  →  Tumor Detection & Segmentation
-🫁  Thoracic Imaging      Chest X-Ray  →  Pneumonia, COVID-19, TB
-🦴  Musculoskeletal       X-Ray  →  Fracture Detection & Localization
-👁️  Ophthalmology         Fundus  →  Diabetic Retinopathy Grading
-🔬  Dermatology           Dermoscopy  →  Melanoma Classification
-🫀  Cardiology            Cardiac MRI  →  Heart Segmentation
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kolloln/kolloln/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kolloln/kolloln/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kolloln/kolloln/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
 
 ---
 
-## 📫 Get In Touch
+## 📫 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kolloln-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kolloln)
-[![Email](https://img.shields.io/badge/Email-kallolchakraborty2019%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kallolchakraborty2019@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-kallolchakraborty2019-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kallolchakraborty2019@gmail.com)
 
 <br/>
 
-💬 Open to: **Research Collaborations · Freelance Medical AI Projects · Open Source Contributions**
+**💬 Available for:**
+`Medical AI Research` · `Freelance Projects` · `Open Source` · `Collaborations`
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-> *"The goal of AI in medicine is not to replace the doctor — it's to give every patient access to the world's best diagnosis."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer&text=Building+AI+that+saves+lives&fontSize=18&fontColor=00d9ff&animation=twinkling" width="100%"/>
 
 </div>
