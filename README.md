@@ -396,3 +396,4 @@ email      : kallolchakraborty2019@gmail.com
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1a5276,100:0d1117&height=130&section=footer&text=Building+AI+that+saves+lives+%F0%9F%8F%A5&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>
+
